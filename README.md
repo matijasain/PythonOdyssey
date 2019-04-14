@@ -19,7 +19,7 @@ Some of the projects has been completed.
 
 
 
-### Prerequisites
+### Resources
 
 List of so far used tutorials and resources:
 * Udemy tutorial: [The Python Mega Course](https://www.udemy.com/the-python-mega-course/)
