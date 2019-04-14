@@ -8,7 +8,7 @@ All in all my goal is to have fun while learning using various resources and try
 
 ### Projects:
 [Interactive Dictionary](https://github.com/matijasain/PythonOdyssey/tree/master/InteractiveDictionary)
-* *Made based on tutorial The Python Mega Course* - Interactive *Console* dictionary where you can input certain words and receive their clarification.
+* Made based on tutorial *The Python Mega Course* - Interactive *Console* dictionary where you can input certain words and receive their clarification.
 
 
 
