@@ -21,4 +21,5 @@ List of so far used tutorials and resources:
 ### Virtual Environment
 
 For some of the projects (Django projects mostly) I suggest setting up vitual environment.
-There is a really good and easy to follow article about this which I reccomend in case you are setting Python environment for the first time [Python Virtual Environment | Introduction](https://www.geeksforgeeks.org/python-virtual-environment/)
+There is a really good and easy to follow article about this which I reccomend in case you are setting Python environment for the first time. 
+* [Python Virtual Environment | Introduction](https://www.geeksforgeeks.org/python-virtual-environment/)
