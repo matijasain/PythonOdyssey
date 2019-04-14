@@ -3,7 +3,13 @@
 Python learning path.
 
 
-All in all my goal is to have fun while learning using various resources and trying to complete various projects ideas.
+Having fun while learning.
+
+Various resources have been used.
+
+Some of the projects were abandoned.
+
+Some of the projects has been completed.
 
 
 ### Projects:
