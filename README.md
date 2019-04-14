@@ -15,7 +15,8 @@ All in all my goal is to have fun while learning using various resources and try
 ### Prerequisites
 
 List of so far used tutorials and resources:
-* [The Python Mega Course](https://www.udemy.com/the-python-mega-course/)
+* Udemy tutorial: [The Python Mega Course](https://www.udemy.com/the-python-mega-course/)
+* Book: [Python Crash Course: A Hands-On, Project-Based Introduction to Programming](https://www.amazon.com/Python-Crash-Course-Hands-Project-Based/dp/1593276036)
 
 
 ### Virtual Environment
