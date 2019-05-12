@@ -28,5 +28,5 @@ List of so far used tutorials and resources:
 
 ### Virtual Environment
 
-A really good and easy to follow article about setting Python environment for the first time. 
+A really good and easy to follow article about setting Virtual environment for the first time. 
 * [Python Virtual Environment | Introduction](https://www.geeksforgeeks.org/python-virtual-environment/)
