@@ -4,7 +4,6 @@
 
 **Python learning path.**
 
-Having fun while learning.
 
 Various resources have been used.
 
